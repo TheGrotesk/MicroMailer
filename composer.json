@@ -1,0 +1,9 @@
+{
+	"name": "indiealex/micro-mailer",
+	"type": "project",
+
+	"require":{
+		"php": ">=7.1",
+		"swiftmailer/swiftmailer": "^6.0"
+	}
+}
